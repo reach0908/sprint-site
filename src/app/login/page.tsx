@@ -1,5 +1,9 @@
 import Image from 'next/image';
 
 export default function Login() {
-	return <div>로그인 페이지</div>;
+	return (
+		<div>
+			<div>로그인 페이지</div>
+		</div>
+	);
 }
